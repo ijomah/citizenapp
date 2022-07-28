@@ -1,0 +1,7 @@
+{
+  "name": "ion-wapi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
